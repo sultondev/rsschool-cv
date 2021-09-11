@@ -1,1 +1,1 @@
-# https://sultondev.github.io/rsschool-cv/
+# https://sultondev.github.io/rsschool-cv/cv
