@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://sultondev.github.io/rsschool-cv/
