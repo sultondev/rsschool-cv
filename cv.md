@@ -48,5 +48,4 @@
 
 <h4 align="left">Github informations:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultondev&show_icons=true&locale=en&layout=compact" alt="sultondev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultondev&show_icons=true&locale=en" alt="sultondev" /></p>
